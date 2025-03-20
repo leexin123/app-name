@@ -390,3 +390,56 @@
     top: 24px;
     left: 33px;
 }
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #1E1E1E;
+    padding: 10px 0;
+    border-top: 1px solid #333;
+    width: 100%;
+  }
+  
+  .nav-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: #888;
+    position: relative;
+    width: 25%;
+  }
+  
+  .nav-item.active {
+    color: #fff;
+  }
+  
+  .selected {
+    position: absolute;
+    top: -15px;
+    width: 30px;
+    height: 3px;
+    background-color: #fff;
+    border-radius: 1.5px;
+    display: none;
+  }
+  
+  .nav-item.active .selected {
+    display: block;
+  }
+  
+  .nav-icon {
+    width: 24px;
+    height: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .nav-text {
+    font-size: 12px;
+  }
+  
