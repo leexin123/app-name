@@ -1,0 +1,453 @@
+.element-billing-page {
+    position: relative;
+    width: 430px;
+    height: 932px;
+    background-color: #171717;
+}
+
+.element-billing-page .overlap {
+    position: absolute;
+    width: 430px;
+    height: 932px;
+    top: 0;
+    left: 0;
+}
+
+.element-billing-page .header-bar {
+    position: absolute;
+    width: 370px;
+    height: 119px;
+    top: 73px;
+    left: 30px;
+    background-color: #222224;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px #00000012;
+}
+
+.element-billing-page .progress-bar {
+    position: absolute;
+    width: 326px;
+    height: 4px;
+    top: 95px;
+    left: 22px;
+    background-color: #d9d9d9;
+    border-radius: 10px;
+}
+
+.element-billing-page .filled {
+    width: 204px;
+    height: 4px;
+    background-color: #0ec77b;
+    border-radius: 10px;
+}
+
+.element-billing-page .text-wrapper {
+    position: absolute;
+    width: 148px;
+    top: 61px;
+    left: 22px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #a8acd3;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.element-billing-page .div {
+    position: absolute;
+    width: 34px;
+    top: 61px;
+    left: 314px;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ff9d29;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.element-billing-page .text-wrapper-2 {
+    position: absolute;
+    width: 125px;
+    top: 18px;
+    left: 69px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #dfdfdf;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.element-billing-page .energy-bar {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 16px;
+    left: 22px;
+    background-image: url(./img/ellipse-674.svg);
+    background-size: 100% 100%;
+}
+
+.element-billing-page .overlap-group {
+    position: relative;
+    height: 36px;
+    background-image: url(./img/ellipse-675.svg);
+    background-size: 100% 100%;
+}
+
+.element-billing-page .vector {
+    position: absolute;
+    width: 13px;
+    height: 18px;
+    top: 9px;
+    left: 11px;
+}
+
+.element-billing-page .frame {
+    position: absolute;
+    width: 369px;
+    height: 587px;
+    top: 205px;
+    left: 30px;
+    background-color: #222224;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 5px 5px 20px #00000012;
+}
+
+.element-billing-page .text-wrapper-3 {
+    position: absolute;
+    top: 30px;
+    left: 45px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #d9d9d9;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.element-billing-page .frame-2 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12.34px;
+    position: absolute;
+    top: 428px;
+    left: 53px;
+}
+
+.element-billing-page .rectangle {
+    position: relative;
+    width: 18.51px;
+    height: 18.51px;
+}
+
+.element-billing-page .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.90px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #d9d9d9;
+    font-size: 17.3px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.element-billing-page .frame-3 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12.34px;
+    position: absolute;
+    top: 428px;
+    left: 193px;
+}
+
+.element-billing-page .rectangle-2 {
+    position: relative;
+    width: 18.51px;
+    height: 18.51px;
+    background-color: #49b02d;
+}
+
+.element-billing-page .overlap-2 {
+    position: absolute;
+    width: 311px;
+    height: 311px;
+    top: 101px;
+    left: 30px;
+}
+
+.element-billing-page .ellipse {
+    position: absolute;
+    width: 311px;
+    height: 311px;
+    top: 0;
+    left: 0;
+}
+
+.element-billing-page .overlap-3 {
+    position: relative;
+    height: 311px;
+}
+
+.element-billing-page .group {
+    position: absolute;
+    width: 311px;
+    height: 311px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/ellipse-1.svg);
+    background-size: 100% 100%;
+}
+
+.element-billing-page .overlap-group-2 {
+    position: relative;
+    height: 311px;
+    background-image: url(./img/ellipse-4.svg);
+    background-size: 100% 100%;
+}
+
+.element-billing-page .overlap-wrapper {
+    position: absolute;
+    width: 104px;
+    height: 78px;
+    top: 155px;
+    left: 105px;
+}
+
+.element-billing-page .overlap-4 {
+    position: relative;
+    width: 100px;
+    height: 78px;
+}
+
+.element-billing-page .text-wrapper-5 {
+    position: absolute;
+    top: 47px;
+    left: 0;
+    opacity: 0.45;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #d9d9d9;
+    font-size: 20.9px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.element-billing-page .text-wrapper-6 {
+    position: absolute;
+    top: 0;
+    left: 16px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #d9d9d9;
+    font-size: 34.8px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.element-billing-page .img {
+    position: absolute;
+    width: 53px;
+    height: 73px;
+    top: 82px;
+    left: 129px;
+}
+
+.element-billing-page .text-wrapper-7 {
+    position: absolute;
+    width: 218px;
+    top: 469px;
+    left: 76px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #d9d9d9;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.element-billing-page .swipe-bar {
+    position: fixed;
+    width: 430px;
+    height: 34px;
+    top: 898px;
+    left: 0;
+}
+
+.element-billing-page .navbar {
+    display: flex;
+    width: 430px;
+    height: 84px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 40px;
+    position: fixed;
+    top: 814px;
+    left: 0;
+    background-color: #222222;
+    border-radius: 28px 28px 0px 0px;
+}
+
+.element-billing-page .nav-item {
+    display: flex;
+    flex-direction: column;
+    width: 42px;
+    align-items: center;
+    justify-content: center;
+    padding: 7.24px 0px;
+    position: relative;
+}
+
+.element-billing-page .img-2 {
+    position: relative;
+    width: 45px;
+    height: 45px;
+    margin-left: -1.50px;
+    margin-right: -1.50px;
+}
+
+.element-billing-page .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #a8acd3;
+    font-size: 10.9px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.element-billing-page .selected {
+    position: absolute;
+    width: 52px;
+    height: 3px;
+    top: -4px;
+    left: -5px;
+    background-color: #fefff5;
+    border-radius: 5px;
+}
+
+.element-billing-page .home {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #fefff5;
+    font-size: 10.9px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.element-billing-page .top-bar {
+    position: fixed;
+    width: 430px;
+    height: 60px;
+    top: 0;
+    left: 0;
+    background-color: #222222;
+    border-radius: 0px 0px 28px 28px;
+    overflow: hidden;
+}
+
+.element-billing-page .information {
+    position: relative;
+    width: 373px;
+    height: 54px;
+    top: 3px;
+    left: 57px;
+}
+
+.element-billing-page .time {
+    position: absolute;
+    width: 42px;
+    height: 22px;
+    top: 18px;
+    left: 0;
+}
+
+.element-billing-page .text {
+    position: absolute;
+    width: 40px;
+    top: 0;
+    left: 0;
+    font-family: "Lato-Medium", Helvetica;
+    font-weight: 500;
+    color: #898db1;
+    font-size: 17px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22px;
+}
+
+.element-billing-page .icons {
+    position: absolute;
+    width: 154px;
+    height: 54px;
+    top: 0;
+    left: 219px;
+}
+
+.element-billing-page .frame-4 {
+    position: absolute;
+    width: 27px;
+    height: 13px;
+    top: 23px;
+    left: 96px;
+}
+
+.element-billing-page .rectangle-wrapper {
+    position: absolute;
+    width: 25px;
+    height: 13px;
+    top: 0;
+    left: 0;
+    border-radius: 4.3px;
+    border: 1px solid;
+    border-color: #898db159;
+}
+
+.element-billing-page .rectangle-3 {
+    position: relative;
+    width: 21px;
+    height: 9px;
+    top: 1px;
+    left: 1px;
+    background-color: #898db1;
+    border-radius: 2.5px;
+}
+
+.element-billing-page .vector-2 {
+    position: absolute;
+    width: 1px;
+    height: 4px;
+    top: 5px;
+    left: 26px;
+}
+
+.element-billing-page .vector-3 {
+    position: absolute;
+    width: 19px;
+    height: 12px;
+    top: 24px;
+    left: 63px;
+}
+
+.element-billing-page .vector-4 {
+    position: absolute;
+    width: 21px;
+    height: 12px;
+    top: 24px;
+    left: 33px;
+}

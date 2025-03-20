@@ -1,0 +1,30 @@
+:root {
+    --text-single-100-regular-font-family: "Inter", Helvetica;
+    --text-single-100-regular-font-weight: 400;
+    --text-single-100-regular-font-size: 12px;
+    --text-single-100-regular-letter-spacing: 0px;
+    --text-single-100-regular-line-height: 14px;
+    --text-single-100-regular-font-style: normal;
+    --general-shadows-shadow-01: 0px 2px 6px 0px rgba(13, 10, 44, 0.08);
+    --variable-collection-color-2: rgba(111, 117, 253, 1);
+    --variable-collection-color-4: rgba(146, 153, 199, 1);
+    --variable-collection-color-6: rgba(168, 172, 211, 1);
+    --variable-collection-color-7: rgba(255, 255, 255, 1);
+    --variable-collection-color-8: rgba(92, 99, 118, 1);
+    --variable-collection-color-9: rgba(46, 50, 75, 1);
+    --variable-collection-color-10: rgba(35, 39, 62, 1);
+    --variable-collection-danger: rgba(255, 91, 91, 1);
+    --variable-collection-warning: rgba(255, 239, 57, 1);
+    --variable-collection-success: rgba(4, 214, 129, 1);
+    --variable-collection-corner-radius: 15px;
+    --variable-collection-color-11: rgba(30, 69, 62, 1);
+    --variable-collection-color-12: rgba(44, 76, 59, 1);
+    --variable-collection-color-13: rgba(69, 91, 85, 1);
+    --variable-collection-color-14: rgba(48, 104, 68, 1);
+    --variable-collection-color-15: rgba(48, 0, 48, 1);
+    --variable-collection-color-16: rgba(72, 8, 56, 1);
+    --variable-collection-color-17: rgba(88, 8, 56, 1);
+    --variable-collection-color-18: rgba(96, 8, 64, 1);
+    --variable-collection-color-19: rgba(104, 8, 64, 1);
+  }
+  
