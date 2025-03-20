@@ -115,20 +115,20 @@
             <img class="swipe-bar" src="img/swipe-bar.svg" />
             <div class="navbar">
                 <div class="nav-item">
-                    <img class="img-2" src="img/home-icon.svg" />
+                    <img class="img-2" src="../img/HomeIcon.png" />
                     <div class="text-wrapper-16">Home</div>
                 </div>
                 <div class="nav-item">
                     <div class="selected"></div>
-                    <img class="img-2" src="img/billing-icon-filled.svg" />
+                    <img class="img-2" src="../img/BillingIcon-Filled.png" />
                     <div class="home">Billing</div>
                 </div>
                 <div class="nav-item">
-                    <img class="img-2" src="img/electricity-icon.svg" />
+                    <img class="img-2" src="../img/ElectricityIcon.png" />
                     <div class="text-wrapper-16">Usage</div>
                 </div>
                 <div class="nav-item">
-                    <img class="img-2" src="img/setting.svg" />
+                    <img class="img-2" src="../img/Setting.png" />
                     <div class="text-wrapper-16">Setting</div>
                 </div>
             </div>
