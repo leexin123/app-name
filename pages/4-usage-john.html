@@ -13,29 +13,32 @@
                     <div class="scrollable">
                         <div class="overlap">
                             <div class="overlap-group">
-                                <img class="image" src="img/image-13.png" />
                                 <div class="frame">
                                     <div class="indiv-socket">
                                         <div class="frame-2">
                                             <div class="normal-text"><div class="text-wrapper">Gaming Socket</div></div>
                                             <div class="header"><div class="heading">80kW</div></div>
                                         </div>
-                                        <img class="vector" src="img/image.svg" />
                                     </div>
                                     <div class="indiv-socket">
                                         <div class="frame-2">
                                             <div class="normal-text"><div class="text-wrapper">Bedside Socket</div></div>
                                             <div class="header"><div class="heading">20kW</div></div>
                                         </div>
-                                        <img class="vector" src="img/vector.svg" />
                                     </div>
                                 </div>
                                 <div class="fields-filter">
                                     <div class="frame-3">
-                                        <div class="field-text">Select</div>
-                                        <img class="icons" src="img/icons.svg" />
+                                        <select id="timeFilter" class="time-filter-dropdown">
+                                            <option value="" disabled selected>Select</option>
+                                            <option value="today">Today</option>
+                                            <option value="week">Past Week</option>
+                                            <option value="month">Past 30 Days</option>
+                                            <option value="sixMonths">Past 6 Months</option>
+                                            <option value="year">Past Year</option>
+                                        </select>
                                     </div>
-                                </div>
+                                </div>                            
                             </div>
                             <div class="heading-wrapper"><div class="heading-2">100kW</div></div>
                         </div>

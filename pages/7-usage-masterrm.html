@@ -40,11 +40,17 @@
                 </div>
                 <div class="text-wrapper-2">Master Room</div>
                 <div class="fields-filter">
-                    <div class="frame-2">
-                        <div class="field-text">Select</div>
-                        <img class="icons" src="img/icons.svg" />
+                    <div class="frame-3">
+                        <select id="timeFilter" class="time-filter-dropdown">
+                            <option value="" disabled selected>Select</option>
+                            <option value="today">Today</option>
+                            <option value="week">Past Week</option>
+                            <option value="month">Past 30 Days</option>
+                            <option value="sixMonths">Past 6 Months</option>
+                            <option value="year">Past Year</option>
+                        </select>
                     </div>
-                </div>
+                </div> 
             </div>
             <img class="swipe-bar" src="img/swipe-bar.svg" />
             <div class="navbar">

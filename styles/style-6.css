@@ -446,3 +446,31 @@
     font-size: 12px;
   }
   
+  /* Base styling for the dropdown */
+.time-filter-dropdown {
+    border: none;
+    background: transparent;
+    font-family: inherit;
+    font-size: inherit;
+    width: 100%;
+    cursor: pointer;
+    padding: 5px;
+    outline: none;
+    color: black; /* Default text color */
+}
+
+/* Style for when an option is selected */
+.time-filter-dropdown:not([value=""]) {
+    color: white;
+}
+
+/* Dark background for dropdown options */
+.time-filter-dropdown option {
+    background-color: #333;
+    color: white;
+}
+
+/* Style for the selected option */
+.time-filter-dropdown option:checked {
+    background-color: #555;
+}
